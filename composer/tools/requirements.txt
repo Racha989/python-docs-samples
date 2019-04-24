@@ -1,6 +1,6 @@
-cryptography==2.5
+cryptography==2.6.1
 google-api-python-client==1.7.8
-google-auth==1.6.2
-google-cloud-storage==1.13.2
-kubernetes==8.0.1
+google-auth==1.6.3
+google-cloud-storage==1.15.0
+kubernetes==9.0.0
 mysql-connector-python==8.0.15
